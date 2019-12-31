@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dope-af-notes
 
 Note Representation---
@@ -138,3 +139,6 @@ public List<Note> SortByDateTimeLastEdited(List<Note> noteList)
 public List<Note> SortByTagsAlphabetical(List<Note> noteList)
 
 public List<Note> SortByTitleAlphabetical(List<Note> noteList)
+=======
+# dope-af-notes
+>>>>>>> 16f4fb007a70ef1ee5013697efad3e0b3655c754
